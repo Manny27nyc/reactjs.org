@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Do not delete or move this file.
 // Many fiddles reference it so we have to keep it here.
 (function() {

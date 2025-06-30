@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const visit = require('unist-util-visit');
 
 // Always treat JS blocks as JSX.
